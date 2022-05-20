@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YwGIsTCF1qeKrPwUgVo/StmcNwy+DuaoIJDE2zhku5q6w2HPh7ctWqRym8nJIrBuPBrwLxg2KKHp4BgnoX7TA==",
+  "success": true,
+  "projectFilePath": "/Users/marvinbatz/Projects/hello/hello/hello.csproj",
+  "expectedPackageFiles": [
+    "/Users/marvinbatz/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/marvinbatz/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/marvinbatz/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
