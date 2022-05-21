@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/createMethod/createMethod/createMethod.csproj": {}
+  },
+  "projects": {
+    "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/createMethod/createMethod/createMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/createMethod/createMethod/createMethod.csproj",
+        "projectName": "createMethod",
+        "projectPath": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/createMethod/createMethod/createMethod.csproj",
+        "packagesPath": "/Users/marvinbatz/.nuget/packages/",
+        "outputPath": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/createMethod/createMethod/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marvinbatz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
