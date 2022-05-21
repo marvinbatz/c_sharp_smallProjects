@@ -1,7 +1,14 @@
-﻿string person1 = "Marvin";
-string person2 = "Josue";
-string person3 = "Lucky";
-string person4 = "Esther";
+﻿
+string[] person;
+person = new string[4];
+
+person[0] = "Marvin";
+person[1] = "Josue";
+person[2] = "Lucky";
+person[3] = "Esther";
+
+string classTopic = "Methods of strings";
+string name = "Marvin Batz";
 
 // Generando un numerado r de numeros random
 Random rnd = new Random();
@@ -9,8 +16,6 @@ Console.WriteLine("Random numbers: ");
 // Imprimimos un numero random entre 1 y 10 y al utilizar el $ lo remplazamos por la concatenacion +
 Console.WriteLine($"El numero random es: {rnd.Next(1,10)}");
 
-string classTopic = "Methods of strings";
-string name = "Marvin Batz";
 Console.WriteLine($"{classTopic} por: {name}");
 
 // Realizamos un clon exacto de la variable de tipo objeto, por tal razón lo convertimos a string con ToString
@@ -21,11 +26,11 @@ Console.WriteLine(nameClone);
 Console.WriteLine(classTopic.CompareTo(name));
 
 // Busca si contiene los siguientes caracteres
-Console.WriteLine(person1.Contains("Mar"));
+Console.WriteLine(person[0].Contains("Mar"));
 
 
 //EndsWith() Similar a Contains(), pero para comparar si los caracteres están al final del string.
-Console.WriteLine(person2.EndsWith("ue"));
+Console.WriteLine(person[1].EndsWith("ue"));
 
 
 /*
