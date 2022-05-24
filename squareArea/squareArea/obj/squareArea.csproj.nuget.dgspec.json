@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marvinbatz/Projects/squareArea/squareArea/squareArea.csproj": {}
+    "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/squareArea/squareArea/squareArea.csproj": {}
   },
   "projects": {
-    "/Users/marvinbatz/Projects/squareArea/squareArea/squareArea.csproj": {
+    "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/squareArea/squareArea/squareArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marvinbatz/Projects/squareArea/squareArea/squareArea.csproj",
+        "projectUniqueName": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/squareArea/squareArea/squareArea.csproj",
         "projectName": "squareArea",
-        "projectPath": "/Users/marvinbatz/Projects/squareArea/squareArea/squareArea.csproj",
+        "projectPath": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/squareArea/squareArea/squareArea.csproj",
         "packagesPath": "/Users/marvinbatz/.nuget/packages/",
-        "outputPath": "/Users/marvinbatz/Projects/squareArea/squareArea/obj/",
+        "outputPath": "/Volumes/GoogleDrive-105008794887004695773/Mi unidad/Cursos/Platzi/C#/intro/squareArea/squareArea/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marvinbatz/.nuget/NuGet/NuGet.Config"

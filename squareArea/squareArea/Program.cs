@@ -11,4 +11,3 @@ int sideB = int.Parse(Console.ReadLine());
 float areaRectangle = sideA * sideB;
 
 Console.WriteLine("the rectangle area is: " + areaRectangle);
-
